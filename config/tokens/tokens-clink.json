@@ -1,0 +1,35 @@
+[
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "decimals": 18,
+    "address": {
+      "mainnet": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+      "kovan": "0x9326BFA02ADD2366b30bacB125260Af641031331"
+    },
+    "chainlink": "ethereum",
+    "class": "crypto"
+  },
+  {
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "decimals": 8,
+    "address": {
+      "mainnet": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+      "kovan": "0x6135b13325bfC4B00278B4abC5e20bbce2D6580e"
+    },
+    "chainlink": "wrapped-bitcoin",
+    "class": "crypto"
+  },
+  {
+    "symbol": "DAI",
+    "name": "Multi Collateral Dai",
+    "decimals": 18,
+    "address": {
+      "mainnet": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9",
+      "kovan": "0x777A68032a88E5A84678A77Af2CD65A7b3c0775a"
+    },
+    "chainlink": "dai",
+    "class": "cash"
+  }
+]

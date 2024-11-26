@@ -1,0 +1,42 @@
+[
+  {
+    "name": "25097 Andover Drive Detroit MI 48125",
+    "price": 53.13,
+    "apy": 11.06,
+    "address": {
+      "mainnet": "0x74d2cb65B1158300c3e6BeA149d68509C7B2425d",
+      "kovan": "0x2a3E0705dfB3Bb43a1bF2B952504D273BABcfE09"
+    },
+    "link": "https://realt.co/product/25097-andover-dr-dearborn-heights-mi-48125/"
+  },
+  {
+    "name": "10024-28 Appoline St, Detroit, MI 48227",
+    "price": 145.56,
+    "apy": 11.47,
+    "address": {
+      "mainnet": "0x5807CA447851C98569c567963B25B1C83D41BeBc",
+      "kovan": "0x2a3E0705dfB3Bb43a1bF2B952504D273BABcfE09"
+    },
+    "link": "https://realt.co/product/10024-28-appoline-st-detroit-mi-48227/"
+  },
+  {
+    "name": "15048 Freeland St, Detroit, MI, 48227",
+    "price": 49.02,
+    "apy": 11.66,
+    "address": {
+      "mainnet": "0x67f2014293D641468161bbB0E6bD088Fc0B8c381",
+      "kovan": "0x2a3E0705dfB3Bb43a1bF2B952504D273BABcfE09"
+    },
+    "link": "https://realt.co/product/15048-freeland-st-detroit-mi-48227/"
+  },
+  {
+    "name": "10612 Somerset Ave, Detroit, MI 48224",
+    "price": 47.86,
+    "apy": 11.41,
+    "address": {
+      "mainnet": "0xd4203d4F0f2c3aE21ce93f04aB00517262f65aa9",
+      "kovan": "0x2a3E0705dfB3Bb43a1bF2B952504D273BABcfE09"
+    },
+    "link": "https://realt.co/product/10612-somerset-ave-detroit-mi-48224/"
+  }
+]

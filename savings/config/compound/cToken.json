@@ -1,0 +1,6 @@
+{
+  "cDAIContract": {
+    "mainnet": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "kovan": "0xf0d0eb522cfa50b716b3b1604c4f0fa6f04376ad"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "token1": "USDC",
+    "token2": "ETH",
+    "address": {
+      "mainnet": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+      "kovan": "0x"
+    }
+  },
+  {
+    "token1": "DAI",
+    "token2": "ETH",
+    "address": {
+      "mainnet": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+      "kovan": "0xb10cf58e08b94480fcb81d341a63295ebb2062c2"
+    }
+  },
+  {
+    "token1": "WBTC",
+    "token2": "ETH",
+    "address": {
+      "mainnet": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+      "kovan": "0x"
+    }
+  },
+  {
+    "token1": "ETH",
+    "token2": "ZRX",
+    "address": {
+      "mainnet": "0xc6f348dd3b91a56d117ec0071c1e9b83c0996de4",
+      "kovan": "0x"
+    }
+  }
+]

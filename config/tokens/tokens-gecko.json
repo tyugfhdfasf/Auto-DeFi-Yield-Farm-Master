@@ -1,0 +1,69 @@
+[
+  {
+    "symbol": "cDAI",
+    "name": "Compound Dai",
+    "decimals": 8,
+    "address": {
+      "mainnet": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "kovan": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+    },
+    "coingecko": "cdai",
+    "class": "cash"
+  },
+  {
+    "symbol": "aDAI",
+    "name": "Aave Interest bearing DAI ",
+    "decimals": 18,
+    "address": {
+      "mainnet": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+      "kovan": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d"
+    },
+    "coingecko": "dai",
+    "class": "cash"
+  },
+  {
+    "symbol": "cUSDC",
+    "name": "Compound USDC",
+    "decimals": 8,
+    "address": {
+      "mainnet": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "kovan": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+    },
+    "coingecko": "cdai",
+    "class": "cash"
+  },
+  {
+    "symbol": "aUSDC",
+    "name": "Aave Interest bearing USDC ",
+    "decimals": 18,
+    "address": {
+      "mainnet": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+      "kovan": "0x02F626c6ccb6D2ebC071c068DC1f02Bf5693416a"
+    },
+    "coingecko": "aave-usdc",
+    "class": "cash"
+  },
+  {
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "address": {
+      "mainnet": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "kovan": "0xdcfab8057d08634279f8201b55d311c2a67897d2"
+    },
+    "coingecko": "usd-coin",
+    "class": "cash"
+  },
+  {
+    "symbol": "PAXG",
+    "name": "Paxos Gold token",
+    "url": "https://www.paxos.com/paxgold/",
+    "decimals": 18,
+    "address": {
+      "mainnet": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "kovan": "0xb6362fdcceedf79724a8cbdb0ec262334941cd5a"
+    },
+    "coingecko": "pax-gold",
+    "class": "gold"
+  }
+]

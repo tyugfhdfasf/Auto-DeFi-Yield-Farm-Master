@@ -1,4 +1,4 @@
-<p align="center"><img width="10240" height="12808" src="image/interface.png" alt="Defi interface" /></p>
+<p align="center"><img width="1920" height="1080" src="image/interface.png" alt="Defi interface" /></p>
 
 # Defi Sentinel
 DeFi Sentinel is an application that provides users with tools to manage investments in the decentralized finance (DeFi) ecosystem. It aims to simplify interaction with DeFi, secure assets, and increase returns through analytics and automation.

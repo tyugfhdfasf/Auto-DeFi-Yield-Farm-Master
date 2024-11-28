@@ -1,3 +1,5 @@
+<p align="center"><img width="10240" height="12808" src="image/interface.png" alt="Defi interface" /></p>
+
 # Defi Sentinel
 DeFi Sentinel is an application that provides users with tools to manage investments in the decentralized finance (DeFi) ecosystem. It aims to simplify interaction with DeFi, secure assets, and increase returns through analytics and automation.
 Manage portfolios with different asset classes on defi: The goal is to bring concepts like portfolio management/rebalancing from the traditional investment world into Defi. The user can select between model portfolios with different asset allocations and with one click purchase it. Basically, it should be easier for not knowledgable crypto users to invest in a balanced portfolio of different traditional asset classes like Gold and Real Estate and Crypto assets, everything available on defi.

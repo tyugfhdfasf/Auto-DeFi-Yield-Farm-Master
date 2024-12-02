@@ -96,6 +96,67 @@ Detailed statistics on each pool/token, transaction history and ROI for a specif
 - Connecting wallets (MetaMask, Ledger, Trust Wallet).
 - Setting up notifications (Email, Telegram, SMS).
 - Security (multisignature settings, backups).
+
+## Why Dekstop
+
+1. Enhanced security
+For users with high balances, security is a top priority. The program on the computer provides:
+
+- Isolated execution environment:
+Local installation reduces the risks of browser-based attacks such as phishing, malicious extensions, or exploits in JavaScript.
+Example: The user has no risk if he or she accidentally lands on a fake page of a DeFi platform, which often happens when working through a web browser.
+
+- Hardware Integration:
+The program can be linked to hardware wallets (Ledger, Trezor) and use hardware encryption functions to protect keys and sign transactions.
+
+- Local data storage:
+The program can store critical data, such as transaction history or security settings, only on the user’s device. This eliminates the need for third-party cloud storage, minimizing the risk of leaks.
+
+2. High performance
+An application on a PC can utilize the power of the device more efficiently than a web application:
+
+- Speed of operation:
+Local processing reduces latency and does not depend on internet speed as in the case of web versions. This is especially important when analyzing large amounts of data, such as historical returns or complex charts.
+
+-Fast switching between functions:
+The user can instantly access key functions such as portfolio management or transactions without having to load each module again.
+
+3. Support for complex computing and analytics
+Local PC capacity allows the program:
+
+Perform complex calculations such as yield modeling, risk analysis, or asset value forecasting faster and without the limitations of browser-based solutions.
+Create interactive and detailed charts that can include dozens of parameters to analyze DeFi assets.
+
+4. User Experience (UX)
+The desktop version of the program can be optimized for professional work:
+
+- Interface customization:
+Ability to customize the dashboard to display only those metrics that are important to a particular user. For example, one user can track only staking, while another can track liquidity pools.
+
+- Multitasking:
+The user can open multiple windows or tabs of the program at the same time, which simplifies data analysis. For example, one window for portfolio management and another for transaction verification.
+
+5. Offline work
+The program may offer an offline mode of operation:
+
+- Analyze data without an internet connection:
+The user can view portfolio history, build strategies and prepare transactions for submission while remaining in a secure offline environment.
+
+- Reducing dependence on web services:
+The risk of service unavailability due to problems on the ISP side (e.g. server overload) is reduced.
+
+6. Support for multi-network operation
+The program can simultaneously interact with multiple blockchain networks (Ethereum, BSC, Polygon, etc.) without having to switch between browser or application tabs. This is especially useful for users working with firewalls and multiple DeFi tools.
+
+7. Consistency with professional style
+The program on the PC is perceived as a professional tool, which emphasizes the seriousness of working with assets:
+
+- Association with financial terminals:
+An example would be the Bloomberg Terminal analogy, which is used by professional investors to manage traditional assets.
+
+8. Updates and customisation
+The program is easy to update, adding new features and adapting it to the growing needs of users.
+The ability to integrate modules or APIs allows to customize the solution for corporate clients or large traders.
   
 ## Test with local blockchain
 
